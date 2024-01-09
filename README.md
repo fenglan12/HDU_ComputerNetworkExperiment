@@ -1,0 +1,1 @@
+pkt类型文件用Cisco Packet Tracer软件打开，OSPF协议可能会断开，要重新配置
